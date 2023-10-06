@@ -1,2 +1,2 @@
-# time_series_analysis
+# Time Series Analysis
 Notebooks for time series analysis and forecasting
